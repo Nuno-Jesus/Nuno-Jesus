@@ -1,7 +1,7 @@
 
 ## **About me**
 
-My name is Nuno, I'm 21 and I'm currently finishing my bachelor's degree in Computer Engeneering at FEUP and I'm also a student at [42Porto](https://www.42porto.com/). Deeply interested in areas such as Web Development, Android App Development and Game Development as well. Commited to self-development as a person and programmer, learning more, and I'm easily pumped about starting a challenging project.
+My name is Nuno, I'm 21 and I'm currently finishing my bachelor's degree in Computer Engeneering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) and I'm also a student at [42Porto](https://www.42porto.com/). Deeply interested in areas such as **Web Development**, **Android App Development** and **Game Development** as well. Commited to self-development as a person and programmer, learning more, and I'm easily motivated to start working on a demanding project.
 
 
 <div align="center">
