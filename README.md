@@ -13,7 +13,7 @@ My name is Nuno, I'm 21 and I'm currently finishing my bachelor's degree in Comp
 	</a>
 </div>
 
-## **Languages and tools**
+## **I've worked with**
 <div align=center>
 	<img src="https://img.shields.io/badge/-Java-DD7700?style=for-the-badge" alt="Java">
 	<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=FFFFFF" alt="Python">
