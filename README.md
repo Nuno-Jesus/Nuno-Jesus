@@ -18,6 +18,7 @@ My name is Nuno, I'm 21 and I'm currently finishing my bachelor's degree in Comp
 	<img src="https://img.shields.io/badge/-Java-DD7700?style=for-the-badge" alt="Java">
 	<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=FFFFFF" alt="Python">
 	<img src="https://img.shields.io/badge/-C/C++-00AAFF?style=for-the-badge&logo=C&logoColor=FFFFFF" alt="C/C++">
+	<img src="https://img.shields.io/badge/-C%23-00AAFF?style=for-the-badge&logo=C Sharp&logoColor=FFFFFF" alt="C#">
 	<img src="https://img.shields.io/badge/HTML-FF751B?style=for-the-badge&logo=HTML5&logoColor=FFFFFF" alt="HTML">
 	<img src="https://img.shields.io/badge/CSS-00DDFF?style=for-the-badge&logo=CSS3&logoColor=FFFFFF" alt="CSS">
 	<img src="https://img.shields.io/badge/Javascript-FFAB00?style=for-the-badge" alt="Javascript">
@@ -33,6 +34,7 @@ My name is Nuno, I'm 21 and I'm currently finishing my bachelor's degree in Comp
 	<img src="https://img.shields.io/badge/Visual Studio Code-5555FF?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
 	<img src="https://img.shields.io/badge/IntelliJ-DD1100?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF" alt="IntelliJ">
 	<img src="https://img.shields.io/badge/Android Studio-00BB77?style=for-the-badge&logo=Android Studio&logoColor=FFFFFF" alt="Android Studio">
+	<img src="https://img.shields.io/badge/Unity-4B4B4B?style=for-the-badge&logo=Unity&logoColor=FFFFFF" alt="Unity">
 	<img src="https://img.shields.io/badge/Flutter-00DDFF?style=for-the-badge&logo=Flutter&logoColor=FFFFFF" alt="Flutter">
 	<img src="https://img.shields.io/badge/MySQL-AAAAAA?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" alt="MySQL">
 	<img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF" alt="Ubuntu">
