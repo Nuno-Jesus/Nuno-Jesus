@@ -49,4 +49,5 @@ My name is Nuno, I'm 21 and I'm currently finishing my bachelor's degree in Comp
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Nuno-Jesus&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Nuno-Jesus&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=Nuno-Jesus&style=for-the-badge)
 
