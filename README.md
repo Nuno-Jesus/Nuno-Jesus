@@ -36,7 +36,7 @@ My name is Nuno, I'm 21 and I'm currently enrolled in the **1st year of my maste
 			<img src="https://img.shields.io/badge/Bootstrap-C635F8?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap">
 			<img src="https://img.shields.io/badge/Flutter-00DDFF?style=for-the-badge&logo=Flutter&logoColor=FFFFFF" alt="Flutter">
 			<img src="https://img.shields.io/badge/Angular-DD0000?style=for-the-badge&logo=Angular&logoColor=FFFFFF" alt="AngularJS">
-			<img src="https://img.shields.io/badge/ThreeJS-FFFFFF?style=for-the-badge&logo=Three.js&logoColor=000000" alt="ThreeJS">
+			<img src="https://img.shields.io/badge/3JS-FFFFFF?style=for-the-badge&logo=Three.js&logoColor=000000" alt="ThreeJS">
 			<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Python Pandas">
 		</td>
 		<td>
