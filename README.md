@@ -36,7 +36,7 @@ My name is Nuno, I'm 21 and I'm currently enrolled in the **1st year of my maste
 			<img src="https://img.shields.io/badge/Bootstrap-C635F8?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap">
 			<img src="https://img.shields.io/badge/Flutter-00DDFF?style=for-the-badge&logo=Flutter&logoColor=FFFFFF" alt="Flutter">
 			<img src="https://img.shields.io/badge/Angular-DD0000?style=for-the-badge&logo=Angular&logoColor=FFFFFF" alt="AngularJS">
-			<img src="https://img.shields.io/badge/3JS-FFFFFF?style=for-the-badge&logo=Three.js&logoColor=000000" alt="ThreeJS">
+			<img src="https://img.shields.io/badge/ThreeJS-FFFFFF?style=for-the-badge&logo=Three.js&logoColor=000000" alt="ThreeJS">
 			<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Python Pandas">
 		</td>
 		<td>
@@ -44,7 +44,7 @@ My name is Nuno, I'm 21 and I'm currently enrolled in the **1st year of my maste
 			<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub">
 			<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF" alt="Docker">
 			<img src="https://img.shields.io/badge/Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=FFFFFF" alt="Apache Solr">
-			<img src="https://img.shields.io/badge/VS Code-5555FF?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
+			<img src="https://img.shields.io/badge/Visual Studio Code-5555FF?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
 			<img src="https://img.shields.io/badge/IntelliJ-DD1100?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF" alt="IntelliJ">
 			<img src="https://img.shields.io/badge/Android Studio-00BB77?style=for-the-badge&logo=Android Studio&logoColor=FFFFFF" alt="Android Studio">
 			<img src="https://img.shields.io/badge/Unity-4B4B4B?style=for-the-badge&logo=Unity&logoColor=FFFFFF" alt="Unity">
