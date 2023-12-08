@@ -18,7 +18,7 @@ My name is Nuno, I'm 21 and I'm currently enrolled on the **1st year of my Maste
 		<th> Tools </th>
 	</tr>
 	<tr>
-		<td>
+		<td align=center>
 			<img src="https://img.shields.io/badge/-Java-DD7700?style=for-the-badge" alt="Java">
 			<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=FFFFFF" alt="Python">
 			<img src="https://img.shields.io/badge/-C/C++-00AAFF?style=for-the-badge&logo=C&logoColor=FFFFFF" alt="C/C++">
@@ -31,7 +31,7 @@ My name is Nuno, I'm 21 and I'm currently enrolled on the **1st year of my Maste
 			<img src="https://img.shields.io/badge/SQLite-orange?style=for-the-badge&logo=SQLite&logoColor=FFFFFF" alt="SQLite">
 			<img src="https://img.shields.io/badge/Dart-00BB88?style=for-the-badge&logo=Dart&logoColor=FFFFFF" alt="Dart">
 		</td>
-		<td>
+		<td align=center>
 			<img src="https://img.shields.io/badge/Laravel-F85835?style=for-the-badge&logo=Laravel&logoColor=FFFFFF" alt="Laravel">
 			<img src="https://img.shields.io/badge/Bootstrap-C635F8?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap">
 			<img src="https://img.shields.io/badge/Flutter-00DDFF?style=for-the-badge&logo=Flutter&logoColor=FFFFFF" alt="Flutter">
@@ -39,7 +39,7 @@ My name is Nuno, I'm 21 and I'm currently enrolled on the **1st year of my Maste
 			<img src="https://img.shields.io/badge/ThreeJS-FFFFFF?style=for-the-badge&logo=Three.js&logoColor=000000" alt="ThreeJS">
 			<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Python Pandas">
 		</td>
-		<td>
+		<td align=center>
 			<img src="https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=Git&logoColor=FFFFFF" alt="Git">
 			<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub">
 			<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF" alt="Docker">
