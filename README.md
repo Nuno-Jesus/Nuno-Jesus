@@ -2,7 +2,12 @@
 ## **About me**
 
 
-My name is Nuno, I'm 21 and I'm currently finishing my bachelor's degree in Computer Engeneering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) and I'm also a student at [42Porto](https://www.42porto.com/). Deeply interested in areas such as **Web Development**, **Android App Development** and **Game Development** as well. Commited to self-development as a person and programmer, learning more, and I'm easily motivated to start working on a demanding project.
+My name is Nuno, I'm 21 and I'm currently enrolled in the 1st year of my master's degree in Computer Engineering and Informatics at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). I'm also a student at [42Porto](https://www.42porto.com/).
+
+## **My interests**
+- Web Development
+- Android Development
+- Game Development
 
 <div align="center">
 	<a href="https://www.linkedin.com/in/nuno-jesus-588027232/">
@@ -13,8 +18,12 @@ My name is Nuno, I'm 21 and I'm currently finishing my bachelor's degree in Comp
 	</a>
 </div>
 
+
+
 ## **I've worked with**
-<div align=center>
+
+<img src="rainbow_strip.png">
+<div align="center" style="background-color:#24292e;padding:30px;border-radius:7px">
 	<img src="https://img.shields.io/badge/-Java-DD7700?style=for-the-badge" alt="Java">
 	<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=FFFFFF" alt="Python">
 	<img src="https://img.shields.io/badge/-C/C++-00AAFF?style=for-the-badge&logo=C&logoColor=FFFFFF" alt="C/C++">
@@ -44,6 +53,7 @@ My name is Nuno, I'm 21 and I'm currently finishing my bachelor's degree in Comp
 	<img src="https://img.shields.io/badge/Slack-74D126?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack">
 	<img src="https://img.shields.io/badge/Discord-5053FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF" alt="Discord">
 </div>
+<img src="rainbow_strip.png">
 
 ## **Github stats**
 
