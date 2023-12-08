@@ -2,9 +2,10 @@
 
 
 My name is Nuno, I'm 21 and I'm currently enrolled in the **1st year of my master's degree in Computer Engineering and Informatics** at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). I'm also a student at [42Porto](https://www.42porto.com/). My favourite areas are:
-- Web Development
-- Android Development
-- Game Development
+- 🌐 Web Development
+- 📱 Android Development
+- 👾 Game Development
+- 💻 Linux and C language
 
 ## **I've worked with...**
 
