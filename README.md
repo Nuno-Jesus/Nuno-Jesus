@@ -16,15 +16,6 @@ var interests = [
 	"🎨 Graphical Programming",
 	"💻 Linux"
 ];
-
-var occupations = [{
-	"title": "Student",
-	"place": "42 Porto"
-},
-{
-	"title": "Research Grant Holder",
-	"place": "INESC TEC"
-}];
 ```
 
 ## **I've worked with...**
