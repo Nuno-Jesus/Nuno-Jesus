@@ -1,11 +1,31 @@
 ## **About me**
 
+```JavaScript
 
-My name is Nuno, and I'm currently enrolled on the **1st year of my Master's degree in Informatics and Computation Engineering** at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). I'm also a student at [42Porto](https://www.42porto.com/). My favourite areas are:
-- 🌐 Web Development
-- 📱 Android Development
-- 👾 Game Development
-- 💻 Linux and C language
+
+const name = "Nuno Jesus";
+var education = {
+	"degree": "Bachelor's",
+	"type": "Informatics and Computing Engineering",
+	"location": "Faculdade de Engenharia da Universidade do Porto (FEUP)"
+};
+
+var interests = [
+	"🌐 Web Development",
+	"📱 Mobile Development",
+	"🎨 Graphical Programming",
+	"💻 Linux"
+];
+
+var occupations = [{
+	"title": "Student",
+	"place": "42 Porto"
+},
+{
+	"title": "Research Grant Holder",
+	"place": "INESC TEC"
+}];
+```
 
 ## **I've worked with...**
 
@@ -70,9 +90,6 @@ My name is Nuno, and I'm currently enrolled on the **1st year of my Master's deg
 <div align="center">
 	<a href="https://www.linkedin.com/in/nuno-jesus-588027232/">
 		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
-	</a>
-	<a href="https://www.instagram.com/nunomiguel533/?style=for-the-badge&hl=pt">
-		<img src="https://img.shields.io/badge/-Check my Instagram-FF628B?style=for-the-badge&logo=Instagram&logoColor=FFFFFF" alt="Instagram">
 	</a>
 </div>
 
